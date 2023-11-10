@@ -1,0 +1,18 @@
+name: navbar
+description: A drawer navigation bar for your Flutter application.
+version: 0.0.1
+author: TJ Potgieter
+homepage: https://github.com/TJPotgieter/flutter_navbar.git
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
